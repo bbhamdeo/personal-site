@@ -1,13 +1,20 @@
 @extends('layout')
 
 @section('resume-content')
-
 	<div class="title-box">
 		<div class="page-title"><span class="bar-line">|</span> Things I Do <span class="bar-line">|</span></div>
 	</div>
 	<div class="container-fluid">
-		<div class="fluid-row">
-			<div class="span12 offset1">
+		<div class="row-fluid">
+				<div class="span3">
+	        <ul class="nav nav-list resume-sidenav" data-spy="affix" data-offset-top="100">
+	          <li class="active"><a href="#"><i class="icon-chevron-right"></i> Whales</a></li>
+	          <li class=""><a href="#"><i class="icon-chevron-right"></i> Whale penis</a></li>
+	          <li class=""><a href="#"><i class="icon-chevron-right"></i> Slam a Whale</a></li>
+	          <li class=""><a href="#"><i class="icon-chevron-right"></i> Get down With a Whale</a></li>
+	        </ul>
+	      </div>
+			<div class="span9">
 				<div class="content">
 					<div class="content-title-container">
 						<div class="resume-section-title"> Education </div>

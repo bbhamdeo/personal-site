@@ -24,6 +24,12 @@ Route::get('/about-me', function(){
 	return View::make('about_me');
 });
 
+//Resume
+
+Route::get('/resume', function(){
+	return View::make('resume');
+});
+
 //Contact Me
 
 Route::get('/get-in-touch', function(){

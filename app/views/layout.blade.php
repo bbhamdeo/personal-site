@@ -13,6 +13,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Balthazar'>
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/resume.css">
     <link rel="stylesheet" type="text/css" href="css/about-this-site.css">    
 
   </head>
@@ -56,6 +57,7 @@
         <div class="body">
             @yield('home-content')
             @yield('about-me-content')
+            @yield('resume-content')
             @yield('contact-me-content')
             @yield('get-in-touch-content')
             @yield("about-this-site-content")

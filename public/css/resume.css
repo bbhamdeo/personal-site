@@ -1,0 +1,16 @@
+.resume-section-title {
+	border-bottom: 3px dotted rgb(187, 152, 14);
+	text-align: center;
+	display: inline;
+	font-size: 150%;
+}
+
+.resume-subject-title {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+.resume-time-working {
+	margin-top: 1.5%;
+	margin-left: 1.5%;
+}

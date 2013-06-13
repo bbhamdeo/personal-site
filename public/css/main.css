@@ -1,0 +1,193 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	font-family: 'Balthazar', 'Garamond', Helvetica, Times;
+	color: rgb(94, 94, 94);
+	background-color: rgb(238, 235, 235);
+}
+
+p {
+	line-height: 150%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-right: 0%;
+	padding-left: 0%;
+}
+
+/* Hyperlinks */
+
+a {
+	color: rgb(187, 152, 14);
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a.rutgers-link {
+	color: rgb(218, 58, 58);
+	text-decoration: none;
+}
+
+a.hacker-news {
+	color: rgb(213, 147, 27);
+	text-decoration: none;
+}
+
+
+/* Container (document) */
+
+.default-container{
+	min-height: 100%;
+	position: relative;
+}
+
+/* Header */
+
+.header {
+	padding: 10px;
+    border-top: 7px solid rgb(221, 182, 28);
+    -moz-box-shadow:    inset 0 0 5px #000000;
+   -webkit-box-shadow: inset 0 0 5px #000000;
+   box-shadow:         inset 0 0 5px #000000;
+} 
+
+.span4.header-title {
+	height: auto;
+	width: 50%;
+	float: left;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 15%;		
+	margin: 0;
+}
+
+.span4.header-title a {
+	color: rgb(94, 94, 94);
+	text-decoration: none;
+}
+
+.span4.header-menu {
+	height: auto;
+	width: 50%;
+	float: right;
+	padding-top: 3.65%;
+	padding-left: 7%;
+	margin: 0;
+	font-size: 150%;
+}
+
+.span4.header-menu a {
+	color: rgb(94, 94, 94);
+	opacity: 0.66;
+	text-decoration: none;
+}
+.span4.header-menu a:hover {
+	color: rgb(29, 60, 99);
+}
+
+/* Home Title Box */
+
+.home-title-box {
+    background-color: rgb(63, 92, 136);
+    padding-top: 14%;
+    padding-bottom: 14%;
+    border: 1px solid rgb(29, 60, 99);
+    -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+
+/* Body (document)*/
+
+.body {
+	padding-bottom: 70px;   /* Height of the footer */
+}
+
+/* Footer */
+.footer {
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30px;   /* Height of the footer */
+}
+
+.footer-text {
+	text-align: center;
+	font-size: 115%;
+}
+
+.footer-text a {
+	color: rgb(187, 152, 14);
+	text-decoration: none;
+	border-bottom: 1px dotted rgb(187, 152, 14);
+}
+
+/* Title Box */
+
+.title-box {
+	background-color: rgb(63, 92, 136);
+    padding-top: 4%;
+    padding-bottom: 4%;
+    border: 1px solid rgb(3, 60, 112);
+    -moz-box-shadow:    inset 0 0 10px #000000;
+   	-webkit-box-shadow: inset 0 0 10px #000000;
+   	box-shadow:         inset 0 0 10px #000000;
+}
+
+.page-title {
+	font-size: 325%;
+	color: rgb(245, 243, 243);
+	text-align: center;	
+}
+
+.bar-line {
+	color: rgb(221, 182, 28);
+}
+
+/* General Content */
+
+.content {
+	padding-top: 5%;
+	padding-bottom: 0%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: rgb(247, 247, 247);
+	margin-top: 5%;
+	border: 1px solid rgb(187, 187, 187);
+	border-radius: 25px;
+	font-size: 150%;
+	text-align: justify;
+	line-height: 100%;
+	-moz-box-shadow:    inset 0 0 5px #000000;
+   	-webkit-box-shadow: inset 0 0 5px #000000;
+   	box-shadow:         inset 0 0 5px #000000;
+}
+
+/* Container and text are seperated 
+so that the underline doesn't apply to 
+the div, but to to the text */
+
+.content-title-container {
+	text-align: center;
+	padding-bottom: 2%;
+}
+
+.content-title {
+	border-bottom: 3px dotted rgb(187, 152, 14);
+	text-align: center;
+	display: inline;
+	font-size: 110%;
+}
+
+.revision-date {
+	font-size: 70%;
+	text-align: right;
+}
+
+.center-me-please {
+	text-align: center;
+}
+

@@ -7,19 +7,24 @@
 	</div>
 	<div class="container-fluid">
 		<div class="row-fluid">
+
+			<!--  Nav Bar -->
 			<div class="span3">
 		        <ul class="nav nav-list resume-sidenav" data-spy="affix" data-offset-top="100">
 		          <li class="active"><a href="#education"><i class="icon-chevron-right"></i> Education</a></li>
-		          <li class=""><a href="#"><i class="icon-chevron-right"></i>Research</a></li>
-		          <li class=""><a href="#"><i class="icon-chevron-right"></i>Develop</a></li>
-		          <li class=""><a href="#"><i class="icon-chevron-right"></i>Teach</a></li>
-		          <li class=""><a href="#"><i class="icon-chevron-right"></i>Write</a></li>
+		          <li class=""><a href="#research"><i class="icon-chevron-right"></i>Research</a></li>
+		          <li class=""><a href="#develop"><i class="icon-chevron-right"></i>Develop</a></li>
+		          <li class=""><a href="#taech"><i class="icon-chevron-right"></i>Teach</a></li>
+		          <li class=""><a href="#write"><i class="icon-chevron-right"></i>Write</a></li>
+		          <li class=""><a href="#"><i class="icon-chevron-right"></i>Download</a></li>
 		        </ul>
 	      	</div>
 
+	      	<!-- Content -->
 			<div class="span8">
 				<div class="resume-content-box"> 
-					<div class="education">
+
+					<div id="education">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Education </div>
 						</div>
@@ -28,7 +33,7 @@
 							<span class="bar-line">||</span> 
 							Sept, 2009 - May, 2013
 						</div>
-						<ul class="unstyled">
+						<ul>
 							<li>
 								<em>Bachelor of Arts: </em>Classics w/ minors in History and Political Science
 								<span class="bar-line">||</span> 
@@ -38,32 +43,155 @@
 							</li>
 						</ul> 
 						<div class="resume-subtitle"> Honors </div>
-							<ul class="unstyled">
+							<ul>
 								<li>School of Arts and Sciences Honors Scholar</li>
 								<li>Greek and Latin Honors Scholar</li>
-								<li>Rutgers Robeson Scholar</li>
+								<li>Paul Robeson Scholar</li>
 								<li>Henry Rutgers Scholars Award</li>
 								<li>Outstanding Achievement in Undergraduate Research Award, 2012</li>
 								<li>Rutgers University Academic Excellence Award, 2011</li>
 							</ul>	
 
 					</div>
-					<div class="research">
-						<div class="content-title-container">
-							<div class="content-title"> Research & Writing </div>
-						</div>
-						<div> Honors Thesis <span class="bar-line">||</span> May, 2012 - May, 2013</div>
-						<div> Classics: "Morality and Realpolitik in the Athenian Speech 
-							at the Peloponnesian Congress in Thucydides’ History of the Peloponnesian War "</div>
-						<div> Highest Honors</div>
-						<div> Close reading of Ancient Greek texts in Greek and translation. </div>
-						<div> Close reading of historical and linguistic commentary</div>
-						<div> Working closly with and Advisor </div>
-						<div> Understanding Greek language, politics, culture, warfare and diplomacy, philosophy, ethics, etc.</div>
-						<div> Presented research in 54 pg paper with oral defense</div>
 
-						<div> Research Assistant <span class="bar-line">||</span> Sept, 2012 - May, 2013</div>
-					</div>		
+					<div id="research">
+						<div class="resume-title-container">
+							<div class="resume-section-title"> Research </div>
+						</div>
+
+						<div class="resume-item">
+							<div class="resume-subject-title"> Classics Honors Thesis 
+								<span class="bar-line">||</span> 
+								May, 2012 - May, 2013
+							</div>
+							<p class='description'> My thesis, "Morality and Realpolitik in the Athenian Speech 
+								at the Peloponnesian Congress in Thucydides’ History of the Peloponnesian War"
+								explored the aformentioned speech so as to discover whether we can consider the 
+								Athenians position as consitiant with traditional Greek normative imperatives or 
+								following along with more novel amoral, power-politial ones.
+							</p>
+							<ul>
+								<li> Highest Honors </li>
+								<li>
+									<a href="http://sasundergrad.rutgers.edu/academics/additional-academic-programs/thesis-programs">Henry Rutgers Award</a>
+								</li>
+								<li> Working closley with Ancient Greek texts in Greek and translation. </li>
+								<li> Working closley with historical and linguistic commentary</li>
+								<li> Working closely with an Advisor, 
+									<a href="http://classics.rutgers.edu/people/81-thomas-figueira">Prof. Thomas Figueira</a>
+								</li>
+								<li> Working with Greek language, politics, culture, warfare and diplomacy, philosophy, ethics, etc.</li>
+								<li> Presented in 54 pg paper with oral defense</li>
+							</ul>
+						</div>
+
+						<div class="resume-item">
+							<div class="resume-subject-title"> Political Science Research Assistant
+								<span class="bar-line">||</span> 
+								Sept, 2012 - May, 2013
+							</div>
+							<p class="description"> As an RA working for Prof. Bert Levine on 
+								Campaign Finance Law, in particular on campaign contribution 
+								anonymity, I was tasked with discovering and sifting through 
+								relavent and useful data that would contribute to his research. 
+							</p>
+							<ul>
+								<li>"On Call" year around</li>
+								<li>Seeking out substantive sources</li>
+								<li>
+									Working closley with academic studies, court opinions, congressional materials,  
+									relevant legal policy, financial documents, and other appropriate data
+								</li>
+								<li>Presenting data in a digested form to faculty member</li>
+								<li>Minor advising faculty member on arguments and opinions</li>
+							</ul>
+						</div>		
+
+						<div class="resume-item">
+							<div class="resume-subject-title"> Independent Study: Campaign Fianance
+								<span class="bar-line">||</span> 
+								Nov, 2011 - May, 2012
+							</div>
+							<p class="description">A thesis style project I undertook in the Poli Sci department
+								under Prof. Bert Levine. My paper revolved around <em>Buckley v. Valeo</em> 424 U.S. 1 (1976) 
+								and uses the standard with which the Supreme Court struck down FECA's independent expenditure limitation
+								to argue that, today, such a limitation might be defensible given contemporary evidence.     
+							</p>
+							<ul>
+								<li>Outstanding Achievement in Undergraduate Research Award</li>
+								<li>Working closley with primary documents, including Supreme Court opinions and US Civil Code</li>
+								<li>Gathering and understanding relevant data and scholarly commentary</li>
+								<li>Presenting gathered data in a 102 pg research paper</li>
+								<li>Presenting paper at Undergraduate Research Symposium</li>
+							</ul>	
+						</div>
+					</div>
+
+					<div id="develop">
+						<div class="resume-title-container">
+							<div class="resume-section-title"> Develop </div>
+						</div>
+						
+						<div class="resume-item">
+							<div class="resume-subject-title"> 
+								<span class="bar-line">|</span> 
+								Technologies 
+								<span class="bar-line">|</span> 
+							</div>
+							<p class="description"> Although I don't consider myself to be a real developer, I am familiar with...</p>
+							<ul>
+								<li> html, css, php, Python, JavaScript, jQuery, Node.js, Foundation, Bootstrap, Laravel 4 </li>
+							</ul>		
+						</div>
+
+						<div class="resume-item">
+							<div class="resume-subject-title"> Develop.io
+								<span class="bar-line">||</span> 
+								April, 2013 - July, 2013
+							</div>
+							<div class="resume-subtitle"> Intern Web Developer</div>
+							<p class="description"> I aplied to develop.io under the pretence that I was 
+								still a noob programmer who wanted to learn and be around people who would be able
+								to help me do just that. I was fortunate to be allowed to be around and get hands on 
+								experience.
+							</p>
+							<ul>
+								<li>Primarily front end focused</li>
+								<ul>
+									<li> html, css, JavaScript, jQurey, Foundation Framework, Bootstrap Framework, 
+										some WordPress experience. 
+									 </li>
+								</ul>
+								<li>CodeIgniter Framwork</li>
+								<li>Assisting co-workers with any issues and instructing when capible</li>
+							</ul>
+
+						</div>
+
+						<div class="resume-item">
+							<div class="resume-subject-title"> Bhamdeo.com (confirm url)
+								<span class="bar-line">||</span> 
+								June, 2013
+							</div>
+
+							<p class="description"> This whole site the the description! I hacked this site together for 
+								two reasons, 1: to get familiar with Laravel 4, and 2: because my old site was a mediocre
+								wordpress blog, which was not well suited to be a real site. If you want to know a lot 
+								more about this swagtastically average site, 
+								<a href="/about-this-site">click here</a> 
+								to check out the "about this site" page; this 
+								except is a little more succinct.
+							</p>
+							<ul>
+								<li> Development and maintenance, with some help from friends :), <a href="/about-this-site">see here</a> </li>
+								<li>html, css, Bootstrap, Laravel 4, jQuerey/JavaScript</li>
+							</ul>
+
+						</div>
+
+					</div>
+
+					<p class="revision-date">Last Revised: June, 2013</p>
 				</div>
 			</div>
 		</div>

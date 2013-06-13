@@ -2,22 +2,23 @@
 .resume-content-box {
 	padding: 3.5%;
 	margin-top: 5%;
-/*	background-color: rgb(247, 247, 247);
-*/	
-/*	border: 1px solid rgb(187, 187, 187);*/
 	font-size: 140%;
 	text-align: justify;
 	line-height: 150%;
+	background-color: rgb(247, 247, 247);
 }
 
 /* Container and text are seperated 
 so that the underline doesn't apply to 
 the div, but to to the text */
 
+.resume-item {
+	padding-bottom: 3%;
+}
 
 .resume-title-container {
 	text-align: center;
-	padding-bottom: 3%;
+	padding-bottom: 4%;
 }
 
 .resume-section-title {
@@ -33,13 +34,33 @@ the div, but to to the text */
 }
 
 .resume-subtitle {
-	font-size: 120%;
+	font-size: 115%;
 	padding-bottom: 1.5%;
 }
 
-.education {
+.description {
+	font-size: 85%;
+	line-height: 100%;
+}
+
+/* Sections */
+
+#education {
 	font-size: 100%;
 	padding-bottom: 4%;
+	padding-top: 4%;
+}
+
+#research {
+	font-size: 100%;
+	padding-bottom: 4%;
+	padding-top: 4%;
+}
+
+#develop {
+	font-size: 100%;
+	padding-bottom: 4%;
+	padding-top: 4%;
 }
 
 /* Nav Bar 9*/

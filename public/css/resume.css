@@ -41,6 +41,7 @@ the div, but to to the text */
 .description {
 	font-size: 85%;
 	line-height: 100%;
+	/*display: none;*/
 }
 
 /* Sections */

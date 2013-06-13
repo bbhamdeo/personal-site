@@ -66,17 +66,17 @@
 							</div>
 							<p class='description'> My thesis, "Morality and Realpolitik in the Athenian Speech 
 								at the Peloponnesian Congress in Thucydides’ History of the Peloponnesian War"
-								explored the aformentioned speech so as to discover whether we can consider the 
-								Athenians position as consitiant with traditional Greek normative imperatives or 
-								following along with more novel amoral, power-politial ones.
+								explored the aforementioned  speech so as to discover whether we can consider the 
+								Athenians position as consistent with traditional Greek normative imperatives or 
+								following along with more novel amoral, power-political ones.
 							</p>
 							<ul>
 								<li> Highest Honors </li>
 								<li>
 									<a href="http://sasundergrad.rutgers.edu/academics/additional-academic-programs/thesis-programs">Henry Rutgers Award</a>
 								</li>
-								<li> Working closley with Ancient Greek texts in Greek and translation. </li>
-								<li> Working closley with historical and linguistic commentary</li>
+								<li> Working closely with Ancient Greek texts in Greek and translation. </li>
+								<li> Working closely with historical and linguistic commentary</li>
 								<li> Working closely with an Advisor, 
 									<a href="http://classics.rutgers.edu/people/81-thomas-figueira">Prof. Thomas Figueira</a>
 								</li>
@@ -93,13 +93,13 @@
 							<p class="description"> As an RA working for Prof. Bert Levine on 
 								Campaign Finance Law, in particular on campaign contribution 
 								anonymity, I was tasked with discovering and sifting through 
-								relavent and useful data that would contribute to his research. 
+								relevant and useful data that would contribute to his research. 
 							</p>
 							<ul>
 								<li>"On Call" year around</li>
 								<li>Seeking out substantive sources</li>
 								<li>
-									Working closley with academic studies, court opinions, congressional materials,  
+									Working closely with academic studies, court opinions, congressional materials,  
 									relevant legal policy, financial documents, and other appropriate data
 								</li>
 								<li>Presenting data in a digested form to faculty member</li>
@@ -108,7 +108,7 @@
 						</div>		
 
 						<div class="resume-item">
-							<div class="resume-subject-title"> Independent Study: Campaign Fianance
+							<div class="resume-subject-title"> Independent Study: Campaign Finance
 								<span class="bar-line">||</span> 
 								Nov, 2011 - May, 2012
 							</div>
@@ -119,7 +119,7 @@
 							</p>
 							<ul>
 								<li>Outstanding Achievement in Undergraduate Research Award</li>
-								<li>Working closley with primary documents, including Supreme Court opinions and US Civil Code</li>
+								<li>Working closely with primary documents, including Supreme Court opinions and US Civil Code</li>
 								<li>Gathering and understanding relevant data and scholarly commentary</li>
 								<li>Presenting gathered data in a 102 pg research paper</li>
 								<li>Presenting paper at Undergraduate Research Symposium</li>
@@ -150,7 +150,7 @@
 								April, 2013 - July, 2013
 							</div>
 							<div class="resume-subtitle"> Intern Web Developer</div>
-							<p class="description"> I aplied to develop.io under the pretence that I was 
+							<p class="description"> I applied to develop.io under the pretence that I was 
 								still a noob programmer who wanted to learn and be around people who would be able
 								to help me do just that. I was fortunate to be allowed to be around and get hands on 
 								experience.
@@ -163,7 +163,7 @@
 									 </li>
 								</ul>
 								<li>CodeIgniter Framwork</li>
-								<li>Assisting co-workers with any issues and instructing when capible</li>
+								<li>Assisting co-workers with any issues and instructing when able</li>
 							</ul>
 
 						</div>

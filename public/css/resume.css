@@ -64,6 +64,32 @@ the div, but to to the text */
 	padding-top: 4%;
 }
 
+#teach {
+	font-size: 100%;
+	padding-bottom: 4%;
+	padding-top: 4%;
+}
+
+#skills {
+	font-size: 100%;
+	padding-bottom: 4%;
+	padding-top: 4%;
+}
+
+#skills p {
+	line-height: 125%
+}
+
+#downloads {
+	font-size: 100%;
+	padding-bottom: 4%;
+	padding-top: 4%;
+}
+
+#downloads p {
+	line-height: 125%
+}
+
 /* Nav Bar 9*/
 
 .resume-sidenav {

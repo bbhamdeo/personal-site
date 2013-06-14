@@ -5,7 +5,8 @@ body {
 	height: 100%;
 	font-family: 'Balthazar', 'Garamond', Helvetica, Times;
 	color: rgb(94, 94, 94);
-	background-color: rgb(238, 235, 235);
+	/*background-color: rgb(238, 235, 235);*/
+	background-image: url("img/satinweave.png");
 }
 
 p {

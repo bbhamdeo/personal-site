@@ -161,9 +161,9 @@ a.hacker-news {
 	font-size: 150%;
 	text-align: justify;
 	line-height: 100%;
-	-moz-box-shadow:    inset 0 0 5px #000000;
-   	-webkit-box-shadow: inset 0 0 5px #000000;
-   	box-shadow:         inset 0 0 5px #000000;
+	-moz-box-shadow:    inset 0 0 2px #000000;
+   	-webkit-box-shadow: inset 0 0 2px #000000;
+   	box-shadow:         inset 0 0 2px #000000;
 }
 
 /* Container and text are seperated 

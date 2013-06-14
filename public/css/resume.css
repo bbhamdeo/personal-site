@@ -3,9 +3,14 @@
 	padding: 3.5%;
 	margin-top: 5%;
 	font-size: 140%;
-	text-align: justify;
 	line-height: 150%;
+	border: 1px solid rgb(187, 187, 187);
+	border-radius: 25px;
 	background-color: rgb(247, 247, 247);
+	-moz-box-shadow:    inset 0 0 2px #000000;
+   	-webkit-box-shadow: inset 0 0 2px #000000;
+   	box-shadow:         inset 0 0 2px #000000;
+
 }
 
 /* Container and text are seperated 

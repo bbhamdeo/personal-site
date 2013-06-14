@@ -29,7 +29,7 @@
 							<div class="resume-section-title"> Education </div>
 						</div>
 
-						<div class="resume-subject-title">Rutgers University 
+						<div class="resume-subject-title"> Rutgers University 
 							<span class="bar-line">||</span> 
 							Sept, 2009 - May, 2013
 						</div>
@@ -274,7 +274,7 @@
 						<p> You can download a full copy of my long form resume (as presented here) by 
 							<a href=""> clicking here</a>
 						</p>
-						<p> You can find a shorter version here, in both 
+						<p> You can find a shorter version with interests included, here, in both 
 							<a href=""> .pdf</a> 
 							and
 							<a href=""> .doc</a>

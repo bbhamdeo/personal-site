@@ -23,7 +23,6 @@
 	      	<!-- Content -->
 			<div class="span8">
 				<div class="resume-content-box"> 
-
 					<div id="education">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Education </div>
@@ -43,17 +42,19 @@
 							</li>
 						</ul> 
 						<div class="resume-subtitle"> Honors </div>
-							<ul>
-								<li>School of Arts and Sciences Honors Scholar</li>
-								<li>Greek and Latin Honors Scholar</li>
-								<li>Paul Robeson Scholar</li>
-								<li>Henry Rutgers Scholars Award</li>
-								<li>Outstanding Achievement in Undergraduate Research Award, 2012</li>
-								<li>Rutgers University Academic Excellence Award, 2011</li>
-							</ul>	
-
+						<ul>
+							<li>School of Arts and Sciences Honors Scholar</li>
+							<li>Greek and Latin Honors Scholar</li>
+							<li>Paul Robeson Scholar</li>
+							<li>Henry Rutgers Scholars Award</li>
+							<li>Outstanding Achievement in Undergraduate Research Award, 2012</li>
+							<li>Rutgers University Academic Excellence Award, 2011</li>
+						</ul>	
 					</div>
+					<p class="revision-date">Last Revised: June, 2013</p>
+				</div>
 
+				<div class="resume-content-box"> 
 					<div id="research">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Research </div>
@@ -126,7 +127,10 @@
 							</ul>	
 						</div>
 					</div>
+					<p class="revision-date">Last Revised: June, 2013</p>
+				</div>
 
+				<div class="resume-content-box"> 
 					<div id="develop">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Develop </div>
@@ -188,7 +192,10 @@
 							</ul>
 						</div>
 					</div>
+					<p class="revision-date">Last Revised: June, 2013</p>
+				</div>
 
+				<div class="resume-content-box"> 
 					<div id="teach">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Teach </div>
@@ -237,7 +244,10 @@
 							</ul>
 						</div>
 					</div>
+					<p class="revision-date">Last Revised: June, 2013</p>
+				</div>
 
+				<div class="resume-content-box"> 
 					<div id="skills">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Skills* </div>
@@ -265,7 +275,10 @@
 							<p class="center-me-please"> :) </p>
 						</div>
 					</div>
+					<p class="revision-date">Last Revised: June, 2013</p>
+				</div>
 
+				<div class="resume-content-box"> 
 					<div id="downloads">
 						<div class="resume-title-container">
 							<div class="resume-section-title"> Downloads </div>
@@ -280,10 +293,9 @@
 							<a href=""> .doc</a>
 						</p>
 					</div>	
-
 					<p class="revision-date">Last Revised: June, 2013</p>
-
 				</div>
+
 			</div>
 		</div>
 	</div>

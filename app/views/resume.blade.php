@@ -10,19 +10,35 @@
 		<div class="row-fluid">
 
 			<!--  Nav Bar -->
-			<div class="span3">
-		        <ul class="nav nav-list resume-sidenav" data-spy="affix" data-offset-top="100">
-		          <li class="active"><a href="#education"><i class="icon-chevron-right"></i> Education</a></li>
-		          <li class=""><a href="#research"><i class="icon-chevron-right"></i>Research</a></li>
-		          <li class=""><a href="#develop"><i class="icon-chevron-right"></i>Develop</a></li>
-		          <li class=""><a href="#teach"><i class="icon-chevron-right"></i>Teach</a></li>
-		          <li class=""><a href="#skills"><i class="icon-chevron-right"></i>Skills</a></li>
-		          <li class=""><a href="#downloads"><i class="icon-chevron-right"></i>Download</a></li>
-		        </ul>
+			<div class="navbar affix-top resume-nav" data-spy="affix" data-offset-top="300">
+				<div class="navbar-inner">
+					<div class="span12">
+				        <ul class="inline">
+					        <li class=""><a href="#education"> 
+					        	<span class="bar-line">|</span> 
+					        	Education </a>
+					        	<span class="bar-line">|</span> </li>
+					        <li class=""><a href="#research"> Research</a>
+					        	<span class="bar-line">|</span>	
+					        </li>
+					        <li class=""><a href="#develop"> Develop</a>
+					        	<span class="bar-line">|</span>
+					        </li>
+					        <li class=""><a href="#teach"> Teach</a>
+					        	<span class="bar-line">|</span>
+					        </li>
+					        <li class=""><a href="#skills"> Skills</a>
+					        	<span class="bar-line">|</span>
+					        </li>
+					        <li class=""><a href="#downloads"> Download </a>
+					        	<span class="bar-line"> |</span></li>
+					       </ul>
+			      	</div>
+	      		</div>
 	      	</div>
 
 	      	<!-- Content -->
-			<div class="span8">
+			<div class="span8 offset2">
 
 				<!-- Education -->
 				<div class="resume-content-box" id="education"> 
@@ -361,6 +377,9 @@
 					</div>
 
 					<div id="skills-and-downloads-content">
+
+						<p> <span style="color: red;">Note! Not working yet, sorry D:</span></p>
+						
 						<p> You can download a full copy of my long form resume (as presented here) by 
 							<a href=""> clicking here</a>
 						</p>

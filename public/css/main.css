@@ -20,11 +20,13 @@ p {
 /* Hyperlinks */
 
 a {
+	
 	color: rgb(187, 152, 14);
 }
 
 a:hover {
 	text-decoration: none;
+	color: rgb(90, 144, 223);
 }
 
 a.rutgers-link {
@@ -186,9 +188,5 @@ the div, but to to the text */
 .revision-date {
 	font-size: 70%;
 	text-align: right;
-}
-
-.center-me-please {
-	text-align: center;
 }
 

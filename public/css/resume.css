@@ -18,7 +18,8 @@ so that the underline doesn't apply to
 the div, but to to the text */
 
 .resume-item {
-	padding-bottom: 3%;
+	padding-bottom: 5%;
+	padding-top: 3%;
 }
 
 .resume-title-container {
@@ -47,6 +48,13 @@ the div, but to to the text */
 	font-size: 85%;
 	line-height: 100%;
 	/*display: none;*/
+}
+
+
+/* Accordion */
+
+.accordion-group {
+	border: none;
 }
 
 /* Sections */

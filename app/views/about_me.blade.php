@@ -37,7 +37,7 @@
 						<a class="hacker-news" href="https://news.ycombinator.com/">Hacker News</a>.</p>
 
 					<div class="intro-container">
-						<p class="introduction center-me-please">But aside from all that boring stuff…</p>
+						<p class="introduction text-center">But aside from all that boring stuff…</p>
 					</div>
 
 					<p>I like fantasy/sci fi, a well-written script, World Culture, J.R.R. Tolkien, Starcraft II 
@@ -58,7 +58,7 @@
 						
 						<a href="/get-in-touch">there's a page for that</a>, too!</p>
 
-					<p class="center-me-please"> :D </p>
+					<p class="text-center"> :D </p>
 
 					<p class="revision-date">Last Revised: June, 2013</p>
 				</div>

@@ -5,6 +5,7 @@
 	<div class="title-box">
 		<div class="page-title"><span class="bar-line">|</span> Things I Do <span class="bar-line">|</span></div>
 	</div>
+
 	<div class="container-fluid">
 		<div class="row-fluid">
 
@@ -33,15 +34,16 @@
 						<span class="bar-line">||</span> 
 						Sept, 2009 - May, 2013
 					</div>
-					<ul>
-						<li>
-							<em>Bachelor of Arts: </em>Classics w/ minors in History and Political Science
+					<div>
+						<p>
+							<em>Bachelor of Arts: </em> <span class="underline">Classics</span> 
+								w/ minors in 
+								<span class="underline">History</span> and 
+								<span class="underline">Political Science.</span>
 							<span class="bar-line">||</span> 
-							<em>GPA:</em> 3.919 
-							<span class="bar-line">||</span>
-							<em> Summa Cum Laude </em>
-						</li>
-					</ul> 
+							<em>GPA:</em> 3.919 	
+						</p>
+					</div> 
 					<div class="resume-subtitle"> Honors </div>
 					<ul>
 						<li>School of Arts and Sciences Honors Scholar</li>
@@ -70,7 +72,7 @@
 						<div class="accordion" id="accordion1">
 							<div class="accordion-group">
 								<a href="#collapseOne" class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseOne" class="accordion-body collapse">
@@ -109,14 +111,14 @@
 						<div class="accordion" id="accordion2">
 							<div class="accordion-group">
 								<a href="#collapseTwo" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn2">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseTwo" class="accordion-body collapse">
 								<div class="accordion-inner">
 									<p class="description"> As an RA working for Prof. Bert Levine on 
-										Campaign Finance Law, in particular on campaign contribution 
-										anonymity, I was tasked with discovering and sifting through 
+										Campaign Finance Law, in particular on campaign contributions 
+										I was tasked with discovering and sifting through 
 										relevant and useful data that would contribute to his research. 
 									</p>
 									<ul>
@@ -136,7 +138,7 @@
 
 					<!-- Ind. Study -->
 					<div class="resume-item">
-						<div class="resume-subject-title"> Independent Study: Campaign Finance
+						<div class="resume-subject-title"> Independent Study: Campaign Finance Jurisprudence
 							<span class="bar-line">||</span> 
 							Nov, 2011 - May, 2012
 						</div>
@@ -144,7 +146,7 @@
 						<div class="accordion" id="accordion4">
 							<div class="accordion-group">
 								<a href="#collapseThree" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn4">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseThree" class="accordion-body collapse">
@@ -174,14 +176,6 @@
 						<div class="resume-section-title"> Develop </div>
 					</div>
 						
-					<!-- I speak... -->
-					<div class="resume-item">
-						<p class="description"> Although I don't consider myself to be a real developer, I am familiar with...</p>
-						<ul>
-							<li> html, css, php, Python, JavaScript, jQuery, Node.js, Foundation, Bootstrap, Laravel 4 </li>
-						</ul>		
-					</div>
-
 					<!-- Devio -->
 					<div class="resume-item">
 						<div class="resume-subject-title"> Develop.io
@@ -193,7 +187,7 @@
 						<div class="accordion" id="accordion3">
 							<div class="accordion-group">
 								<a href="#collapseFour" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn3">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseFour" class="accordion-body collapse">
@@ -228,13 +222,13 @@
 						<div class="accordion" id="accordion4">
 							<div class="accordion-group">
 								<a href="#collapseFive" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn4">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseFive" class="accordion-body collapse">
 								<div class="accordion-inner">
 									<p class="description"> This whole site the the description! I hacked this site together for 
-									two reasons, 1: to get familiar with Laravel 4, and 2: because my old site was a mediocre
+									two reasons, I: to get familiar with Laravel 4, and II: because my old site was a mediocre
 									wordpress blog, which was not well suited to be a real site. If you want to know a lot 
 									more about this swagtastically average site, 
 									<a href="/about-this-site">click here</a> 
@@ -242,7 +236,7 @@
 									except is a little more succinct.
 									</p>
 									<ul>
-										<li> Development and maintenance, with some help from <a href="/about-this-site"> friends :).</a></li>
+										<li> Development and maintenance, with some help from <a href="/about-this-site"> friends :)</a>.</li>
 										<li>html, css, Bootstrap, Laravel 4, jQuerey/JavaScript</li>
 									</ul>
 								</div>
@@ -270,7 +264,7 @@
 						<div class="accordion" id="accordion5">
 							<div class="accordion-group">
 								<a href="#collapseSix" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn5">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseSix" class="accordion-body collapse">
@@ -304,7 +298,7 @@
 						<div class="accordion" id="accordion6">
 							<div class="accordion-group">
 								<a href="#collapseSeven" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn6">
-									<p class="description"> See More </p>
+									<p class="see-more"> See More // Hide </p>
 								</a>
 							</div>
 							<div id="collapseSeven" class="accordion-body collapse">
@@ -329,11 +323,12 @@
 				</div>
 
 				<!-- Skills -->
-				<div class="resume-content-box" id="skill"> 
+				<div class="resume-content-box" id="skills"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Skills* </div>
 					</div>
-					<div>
+
+					<div id="skills-and-downloads-content">
 						<p>* More rather, a note on skills. It is typical for every resume to have a "skills" section
 							where one puts those things that he/she finds makes them a good employee, candidate, 
 							<em> et cetera. </em></p>
@@ -365,14 +360,16 @@
 						<div class="resume-section-title"> Downloads </div>
 					</div>
 
-					<p> You can download a full copy of my long form resume (as presented here) by 
-						<a href=""> clicking here</a>
-					</p>
-					<p> You can find a shorter version with interests included, here, in both 
-						<a href=""> .pdf</a> 
-						and
-						<a href=""> .doc</a>
-					</p>
+					<div id="skills-and-downloads-content">
+						<p> You can download a full copy of my long form resume (as presented here) by 
+							<a href=""> clicking here</a>
+						</p>
+						<p> You can find a shorter version with interests included, here, in both 
+							<a href=""> .pdf</a> 
+							and
+							<a href=""> .doc</a>
+						</p>
+					</div>
 					<p class="revision-date">Last Revised: June, 2013</p>
 				</div>
 

@@ -73,7 +73,7 @@
 			    			<p> Stack Overflow </p>
 			    		</div>	
 	    			</div>
-
+	    		<p class="revision-date"> Last Revised: June, 2013</p>
 	    		</div>
 	    	</div>
 	    </div>

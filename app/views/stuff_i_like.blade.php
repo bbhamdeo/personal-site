@@ -2,6 +2,11 @@
 
 @section("stuff-i-like-content")
 
-test
+	<body>
+		<div class="hero-unit">
+			<div> heerp </div>
+		</div>
+
+	</body>
 
 @stop

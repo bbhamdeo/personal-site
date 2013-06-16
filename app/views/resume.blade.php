@@ -32,7 +32,7 @@
 					        </li>
 					        <li class=""><a href="#downloads"> Download </a>
 					        	<span class="bar-line"> |</span></li>
-					       </ul>
+					        </ul>
 			      	</div>
 	      		</div>
 	      	</div>
@@ -41,7 +41,8 @@
 			<div class="span8 offset2">
 
 				<!-- Education -->
-				<div class="resume-content-box" id="education"> 
+				<div id="education"></div>
+				<div class="resume-content-box"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Education </div>
 					</div>
@@ -73,7 +74,8 @@
 				</div>
 
 				<!-- Research -->
-				<div class="resume-content-box" id="research"> 
+				<div id="research"></div>
+				<div class="resume-content-box"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Research </div>
 					</div>
@@ -187,7 +189,8 @@
 				</div>
 
 				<!-- Developer -->
-				<div class="resume-content-box" id="develop"> 
+				<div id="develop"></div>
+				<div class="resume-content-box"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Develop </div>
 					</div>
@@ -263,7 +266,8 @@
 				</div>
 
 				<!-- Teach -->
-				<div class="resume-content-box" id="teach"> 
+				<div id="teach"></div>
+				<div class="resume-content-box"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Teach </div>
 					</div>
@@ -339,7 +343,8 @@
 				</div>
 
 				<!-- Skills -->
-				<div class="resume-content-box" id="skills"> 
+				<div id="skills"></div>
+				<div class="resume-content-box"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Skills* </div>
 					</div>
@@ -371,7 +376,8 @@
 
 
 				<!-- Downloads -->
-				<div class="resume-content-box" id="downloads"> 
+				<div id="downloads"></div>
+				<div class="resume-content-box"> 
 					<div class="resume-title-container">
 						<div class="resume-section-title"> Downloads </div>
 					</div>

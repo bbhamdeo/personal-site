@@ -7,9 +7,9 @@
 	border: 1px solid rgb(187, 187, 187);
 	border-radius: 25px;
 	background-color: rgb(247, 247, 247);
-	-moz-box-shadow:    inset 0 0 2px #000000;
-   	-webkit-box-shadow: inset 0 0 2px #000000;
-   	box-shadow:         inset 0 0 2px #000000;
+	-moz-box-shadow:    inset 0 0 10px #000000;
+   	-webkit-box-shadow: inset 0 0 10px #000000;
+   	box-shadow:         inset 0 0 10px #000000;
 
 }
 
@@ -121,17 +121,21 @@ the div, but to to the text */
 /* Nav Bar 9*/
 
 .navbar-inner {
+	overflow: visible;
 	border: none;
 	text-align: center;
 	font-size: 200%;
-	background-color: rgb(63, 92, 136);
+	background-color: rgb(88, 99, 116);
 	background-image: none;
 	background-repeat: no-repeat;
 	filter: none;
+	padding-bottom: 1%;
+	padding-top: 1%;
 	border-radius: 0%;
-	-moz-box-shadow:    inset 0 0 2px #000000;
-   	-webkit-box-shadow: inset 0 0 2px #000000;
-   	box-shadow:         inset 0 0 2px #000000;
+    -moz-box-shadow:    inset 0px -1px 8px #000000;
+   	-webkit-box-shadow: inset 0px -1px 8px #000000;
+   	box-shadow:         inset 0px -1px 8px #000000;
+   	margin-bottom: -4%
 }
 
 .container-fluid {
@@ -158,4 +162,10 @@ the div, but to to the text */
 
 .resume-nav {
 	padding-top: 0%;
+}
+
+/* Navbar fix; Overwriting Bootstrap to work in Chrome*/
+
+.affix,.navbar-fixed-top {
+	-webkit-transform: scale3d(1,1,1);
 }

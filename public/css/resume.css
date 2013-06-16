@@ -1,8 +1,16 @@
 
+.row-fluid .offset2 {
+	margin-left: 17.094017094017094%;
+}
+
+.span8 .offset2 {
+	margin-left: 0px;
+}
+
 .resume-content-box {
 	padding: 3.5%;
 	margin-top: 5%;
-	font-size: 140%;
+	font-size: 135%;
 	line-height: 150%;
 	border: 1px solid rgb(187, 187, 187);
 	border-radius: 25px;
@@ -23,7 +31,7 @@ the div, but to to the text */
 
 .resume-title-container {
 	text-align: center;
-	padding-bottom: 4%;
+	padding-bottom: 2.5%;
 	margin-top: 2%;
 }
 
@@ -31,7 +39,7 @@ the div, but to to the text */
 	border-bottom: 3px dotted rgb(187, 152, 14);
 	text-align: center;
 	display: inline;
-	font-size: 275%;
+	font-size: 250%;
 }
 
 .resume-subject-title {
@@ -109,7 +117,7 @@ the div, but to to the text */
 #skills-and-downloads-content {
 	padding-left: 7%;
 	padding-right: 7%;
-	font-size: 125%;
+	font-size: 110%;
 }
 
 #downloads {

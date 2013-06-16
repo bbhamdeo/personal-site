@@ -8,6 +8,7 @@
     <meta name="author" content="Benjamin Bhamdeo">
     <meta name="description" content="Hello World! Welcome to my internet based basecamp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image.png" href="css/img/icon.png">
     
     <!-- Load Stylesheets -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -58,7 +59,7 @@
             @yield('home-content')
             @yield('about-me-content')
             @yield('resume-content')
-            @yield('contact-me-content')
+            @yield('stuff-i-like-content')
             @yield('get-in-touch-content')
             @yield("about-this-site-content")
         </div>

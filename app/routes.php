@@ -25,6 +25,12 @@ Route::get('/resume', function(){
 	return View::make('resume');
 });
 
+//Stuff I like
+
+Route::get('/stuff-i-like', function (){
+	return View::make('stuff_i_like');
+});
+
 //Contact Me
 
 Route::get('/get-in-touch', function(){
@@ -36,5 +42,10 @@ Route::get('/about-this-site', function(){
 	return View::make('about_this_site');
 });
 
+//404 Error
+App::missing(function()
+{
+    return View::make("404_error");
+});
 
 ?>

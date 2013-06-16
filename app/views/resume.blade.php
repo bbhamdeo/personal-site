@@ -233,7 +233,7 @@
 
 					<!-- This! -->
 					<div class="resume-item">
-						<div class="resume-subject-title"> Bhamdeo.com
+						<div class="resume-subject-title"> BBhamdeo.com
 							<span class="bar-line">||</span> 
 							June, 2013
 						</div>
@@ -252,7 +252,7 @@
 									more about this swagtastically average site, 
 									<a href="/about-this-site">click here</a> 
 									to check out the "about this site" page; this 
-									except is a little more succinct.
+									excerpt is a little more succinct.
 									</p>
 									<ul>
 										<li> Development and maintenance, with some help from <a href="/about-this-site"> friends :)</a>.</li>
@@ -349,27 +349,38 @@
 						<div class="resume-section-title"> Skills* </div>
 					</div>
 
-					<div id="skills-and-downloads-content">
-						<p>* More rather, a note on skills. It is typical for every resume to have a "skills" section
-							where one puts those things that he/she finds makes them a good employee, candidate, 
-							<em> et cetera. </em></p>
-						<p class="text-center"> I hate these sections.</p> 
-						<p>I find that they tend to be bland, uninventive and, frankly, fail to capture qualities that 
-							I would look for in somebody I would like to work with. </p>
-						<p>Don't get me wrong, I too would want to look for smart, talented people, but being good 
-						at something (hell, even being <em>great</em> at something) does not impress me.</p>
-						<p>There are countless people who are good at things. But the people who are good at things, 
-						pursue knowledge, and seek to understand diversity, these are the people I want to be with.</p>
-						<p class="text-center">And so, I'll say this about myself...</p>
-						<p>Not that I'm smart or a hard-worker; on the contrary, I think there are smarter people and harder workers.</p>
-						<p class="text-center">Rather, that I have 3 choice skills:
-							<ol>
-								<li>I am willing and want to learn</li>
-								<li>I try to be as unassuming as possible, for assuming leads blindness, and blindness is ignorance</li>
-								<li>Above all, and at the end of the day, I love people and want to work with cools ones</li>
-							</ol>	
-						</p>
-						<p class="text-center"> :) </p>
+					<div class="accordion" id="accordion8">
+						<div class="accordion-group">
+							<a href="#collapseEight" class="accordion-toggle" data-toggle="collapse" data-parent="#accordiopn8">
+								<p class="see-more"> *See More // Hide </p>
+							</a>
+						</div>
+						<div id="collapseEight" class="accordion-body collapse">
+							<div id="skills-and-downloads-content">
+								<p>* More rather, a note on skills. It is typical for every resume to have a "skills" section
+									where one puts those things that he/she finds makes them a good employee, candidate, 
+									<em> et cetera. </em></p>
+								<p class="text-center"> I hate these sections.</p> 
+								<p>I find that they tend to be bland, uninventive and, frankly, fail to capture qualities that 
+									I would look for in somebody I would like to work with. </p>
+								<p>Don't get me wrong, I too would want to look for smart, talented people, but being good 
+								at something (hell, even being <em>great</em> at something) is not what makes a person extraordinary, in my 
+								eyes.
+								</p>
+								<p>There are countless people who are good at things. But the people who are good at things, 
+								pursue knowledge, and seek to understand diversity, these are the people I want to be with.</p>
+								<p class="text-center">And so, I'll say this about myself...</p>
+								<p>Not that I'm smart or a hard-worker; on the contrary, I think there are smarter people and harder workers.</p>
+								<p class="text-center">Rather, that I have 3 choice skills:
+									<ol>
+										<li>I am willing and want to learn</li>
+										<li>I try to be as unassuming as possible, for assuming leads blindness, and blindness is ignorance</li>
+										<li>Above all, and at the end of the day, I love people and want to work with cools ones</li>
+									</ol>	
+								</p>
+							<p class="text-center"> :) </p>
+							</div>
+						</div>			
 					</div>
 				<p class="revision-date">Last Revised: June, 2013</p>
 				</div>

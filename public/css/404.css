@@ -1,0 +1,39 @@
+body {
+	width: auto;
+	height: 100%;
+	font-size: 200%;
+	font-family: 'Balthazar', 'Garamond', Helvetica, Times;
+	background-image: url("img/fabric_plaid.png");
+
+}
+
+.emoticon {
+	text-align: center;
+	font-size: 250%;
+	padding-top: 8%;
+	transform: rotate(90deg);
+	-ms-transform: rotate(90deg); /* IE 9 */
+	-webkit-transform: rotate(90deg); /* Safari and Chrome */
+}
+
+.omgwtfbbq {
+	text-align: center;
+	font-size: 300%;
+	padding-top: 2%;
+}
+
+#omgwtfbbq {
+	color: rgb(182, 48, 48);
+}
+
+.nonsense {
+	text-align: center;
+	font-size: 250%;
+	padding-top: 2%;
+}
+
+.text {
+	text-align: center;
+	font-size: 150%;
+	padding-top: 2%;
+}

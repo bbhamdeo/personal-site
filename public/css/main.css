@@ -188,3 +188,21 @@ the div, but to to the text */
 	text-align: right;
 }
 
+/* About This Site */
+
+.span5 {
+	text-align: center;
+	margin: 0%;
+}
+
+.standard-image {
+	height: 50px;
+	width: 50px;
+} 
+
+.bootstrap {
+	height: 50px;
+	width: 88px;
+}
+
+

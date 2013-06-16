@@ -14,7 +14,6 @@
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Balthazar'>
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/resume.css">
-    <link rel="stylesheet" type="text/css" href="css/about-this-site.css">    
 
   </head>
   

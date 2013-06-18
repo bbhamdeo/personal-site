@@ -96,10 +96,12 @@
 							<div id="collapseOne" class="accordion-body collapse">
 								<div class="accordion-inner">
 									<p class='description'> My thesis, "Morality and Realpolitik in the Athenian Speech 
-										at the Peloponnesian Congress in Thucydides’ History of the Peloponnesian War"
-										explored the aforementioned  speech so as to discover whether we can consider the 
-										Athenians position as consistent with traditional Greek normative imperatives or 
-										following along with more novel amoral, power-political ones.
+										at the Peloponnesian Congress in Thucydides’ History of the Peloponnesian War" 
+										explored the aforementioned speech so as to discover whether we can consider the Athenians’ 
+										position as consistent with traditional Greek normative imperatives or following along 
+										with more novel amoral, power-political ones, concluding that although keeping 
+										with core normative ideals, the Athenians also show signs of more progressive 
+										amoral thinking as well. 
 									</p>
 									<ul>
 										<li> Highest Honors </li>
@@ -214,17 +216,15 @@
 									<p class="description"> I applied to develop.io under the pretence that I was 
 										still a noob programmer who wanted to learn and be around people who would be able
 										to help me do just that. I was fortunate to be allowed to be around and get hands on 
-										experience.
+										experience and I couldn’t be more pleased with what I walked away learning. 
 									</p>
 									<ul>
 										<li>Primarily front end focused</li>
 										<ul>
-											<li> html, css, JavaScript, jQurey, Foundation Framework, Bootstrap Framework, 
-												some WordPress experience. 
+											<li> html, css, JavaScript, jQurey, Foundation Framework, Bootstrap Framework 
 											 </li>
 										</ul>
-										<li>CodeIgniter Framwork</li>
-										<li>Assisting co-workers with any issues and instructing when able</li>
+										<li>Assisting co-workers and instructing when able</li>
 									</ul>
 								</div>
 							</div>			
@@ -233,7 +233,7 @@
 
 					<!-- This! -->
 					<div class="resume-item">
-						<div class="resume-subject-title"> BBhamdeo.com
+						<div class="resume-subject-title"> Bhamdeo.com
 							<span class="bar-line">||</span> 
 							June, 2013
 						</div>
@@ -246,7 +246,7 @@
 							</div>
 							<div id="collapseFive" class="accordion-body collapse">
 								<div class="accordion-inner">
-									<p class="description"> This whole site the the description! I hacked this site together for 
+									<p class="description"> This whole site is the description! I hacked this site together for 
 									two reasons, I: to get familiar with Laravel 4, and II: because my old site was a mediocre
 									wordpress blog, which was not well suited to be a real site. If you want to know a lot 
 									more about this swagtastically average site, 
@@ -256,7 +256,7 @@
 									</p>
 									<ul>
 										<li> Development and maintenance, with some help from <a href="/about-this-site"> friends :)</a>.</li>
-										<li>html, css, Bootstrap, Laravel 4, jQuerey/JavaScript</li>
+										<li>html, css, Bootstrap, Laravel 4</li>
 									</ul>
 								</div>
 							</div>			
@@ -291,9 +291,9 @@
 								<div class="accordion-inner">
 									<p class="description"> The "Battery" is fancy way of saying drumline.
 										Battery "Tech" is a fancy way of saying music teacher. 
-										Having spent much of time High School experiance involved in music activities, 
-										it made sense for me to only only return and help teach, but to return to Fair Lawn
-										where I went, myself. 
+										Having spent much of my High School experience involved in musical activities, 
+										it not only made sense for me to return and help teach, but to return to Fair Lawn
+										where I, myself, was a student. 
 									</p>	
 									<ul>
 										<li>Instructed 2 Ensembles to have won USSBA National Best Percussion Titles</li>
@@ -323,11 +323,11 @@
 							</div>
 							<div id="collapseSeven" class="accordion-body collapse">
 								<div class="accordion-inner">
-									<p class="description"> One of the things about the marching percussion world is
-										that people tend to move around from place to place based on connections made 
-										with people you've worked with. Thus, when a friend of mine asked if I would help out 
-										at his program, I decided to show up for a day or two. I liked the kids and the atmosphere so much, 
-										though, that I stayed for a little while longer. 
+									<p class="description"> The "Battery" is fancy way of saying drumline. 
+										Battery "Tech" is a fancy way of saying music teacher. 
+										When a friend of mine asked if I would help out at his program, 
+										I decided to show up for a day or two. I liked the kids and the atmosphere 
+										so much, though, that I stayed for a little while longer. 
 									</p>
 									<ul>
 										<li>Teaching the drumline playing and marching technique</li>

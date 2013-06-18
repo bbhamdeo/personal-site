@@ -189,6 +189,23 @@ the div, but to to the text */
 	text-align: right;
 }
 
+/* Stuff I Like */
+
+.tile {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 1%;
+	text-align: center;
+	color: rgb(94, 94, 94);
+    font-size: 115%;
+}
+
+#interest-intro-text {
+	font-size: 140%;
+	line-height: 100%;
+}
+
 /* About This Site */
 
 .span5 {

@@ -19,22 +19,24 @@
 					
 					<p>As a result, I have been a student of philosophy, history, historiography, politics, foreign affairs,  
 						comedy, satire & drama, philology, linguistics, mythology, religion, sociology, literature, art history, 
-						and archaeology, to name a few overlapping disiplines. </p>
+						and archaeology, to name a few overlapping disciplines. </p>
 
 					<p>I also speak Ancient Greek, which, as you might imagine, 
 						is a fun line to drop at parties every once in a while.</p>
 
-					<p>Outside of classics, I focused on legal studies, part time, particually American Constitutional Law and 
+					<p>Outside of classics, I focused on legal studies, part time, particularly American Constitutional Law and 
 						Campaign Finance Law.</p>	
 
 					<p>I am a percussionist and a large part of my life has been devoted
-						to music, espcially the 
+						to music, especially the 
 						<a href="http://en.wikipedia.org/wiki/Marching_percussion">marching arts</a>.</p> 
 
 					<p>I also dabble in the world of computer science and programming 
 						and although I don’t consider myself to be a “real” developer, 
 						I love and respect the tech world and community and do frequent 
 						<a class="hacker-news" href="https://news.ycombinator.com/">Hacker News</a>.</p>
+
+					<p>At the moment I am currently studying for the October LSAT, full time.</p>
 
 					<div class="intro-container">
 						<p class="introduction text-center">But aside from all that boring stuff…</p>
@@ -48,7 +50,7 @@
 						<a href="http://www.youtube.com/watch?v=FxKtZmQgxrI">these reviews</a> (warning: harsh language!), 
 
 						cute animals, and so much more that they have 
-						they’re 
+						their 
 						
 						<a href="/stuff-i-like">own page</a>!
 

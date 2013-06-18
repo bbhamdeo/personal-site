@@ -3,6 +3,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
+	width: 100%;
 	font-family: 'Balthazar', 'Garamond', Helvetica, Times;
 	color: rgb(80, 80, 80);
 	background-image: url("img/fabric_plaid.png");

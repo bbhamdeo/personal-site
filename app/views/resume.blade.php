@@ -394,16 +394,11 @@
 					</div>
 
 					<div id="skills-and-downloads-content">
-
-						<p> <span style="color: red;">Note! Not working yet, sorry D:</span></p>
-						
-						<p> You can download a full copy of my long form resume (as presented here) by 
-							<a href=""> clicking here</a>
+						<p> You can download a full copy of my long form resume (as presented somewhat similar to here) by 
+							<a href="https://docs.google.com/file/d/0Bx30U42L3pXbRkhGakJOZ21LZ2M/edit?usp=sharing"> clicking here</a>.
 						</p>
-						<p> You can find a shorter version with interests included, here, in both 
-							<a href=""> .pdf</a> 
-							and
-							<a href=""> .doc</a>
+						<p> 
+							You can find a shorter version, <a href="https://docs.google.com/file/d/0Bx30U42L3pXbSmZOZWlTc3FmUGs/edit?usp=sharing"> here</a>.
 						</p>
 					</div>
 					<p class="revision-date">Last Revised: June, 2013</p>

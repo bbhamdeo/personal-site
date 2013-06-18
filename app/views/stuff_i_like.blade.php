@@ -52,6 +52,7 @@
 								<div> KotOR </div>
 								<div><a href="http://en.wikipedia.org/wiki/Disney_Renaissance">The Disney Renaissance</a></div>
 								<div> Soundtrack Scoring</div>
+								<div> Kingdom Hearts</div>
 							</div>
 
 							<!-- Column 2 -->

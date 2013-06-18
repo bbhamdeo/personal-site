@@ -18,15 +18,15 @@
 
 	    			<p class="text-center"> 
 	    				This project uses Laravel 4 for it's backend framework and Bootstrap 
-	    				for its's frontend framework. The background image is a subtle pattern and
+	    				for its frontend framework. The background image is a subtle pattern and
 	    				the default font has been supplied by Google Fonts. Github is currently 
 	    				holding this site's 
 	    				<a href="https://github.com/bbhamdeo/personal-site">repo </a>
-	    				and as with every programming project, a big shoutout to the stack community.
+	    				and as with every programming project, a big shout out to the stack community.
 	    				Furthermore, after struggling with getting my layout's footer to stay fixed to
 	    				the bottom of the page, I found a excellent solution by 
 	    				<a href="http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page"> this gentleman,</a>
-	    				a solution that I, myself, addopted.
+	    				a solution that I, myself, adopted.
 	    			 </p>
 	    			
 	    			<div class="row-fluid">

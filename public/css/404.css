@@ -11,9 +11,9 @@ body {
 	text-align: center;
 	font-size: 250%;
 	padding-top: 8%;
-	transform: rotate(90deg);
 	-ms-transform: rotate(90deg); /* IE 9 */
 	-webkit-transform: rotate(90deg); /* Safari and Chrome */
+	transform: rotate(90deg);
 }
 
 .omgwtfbbq {

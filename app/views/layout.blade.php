@@ -4,11 +4,11 @@
   <head>
     <meta charset="utf-8">
     <title>| Ben Bhamdeo</title>
-
     <meta name="author" content="Benjamin Bhamdeo">
     <meta name="description" content="My name is Benjamin Bhamdeo. My friends call me Ben. I am a proud graduate of Rutgers University and an even prouder pupil of the Classics.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image.png" href="css/img/icon.png">    
+    <link rel="icon" type="image.png" href="css/img/icon.png">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Balthazar'>
     <link rel="stylesheet" type="text/css" href="css/main.css">
